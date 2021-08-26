@@ -1,7 +1,7 @@
 - 👋 Hi, I’m George Sarfo-Boateng
 - 👀 I’m interested in ...Genomics, Computational Biology, Bioinformatics and Machine Learning.
 - 🌱 I’m currently learning ...how to develop various Bioinformatics pipelines to automate NGS workflows at the US NAMRU-3 Ghana Detachmentat at the University of Ghana Noguchi Memorial Institute for Medical Research 
-- 💞️ I’m looking to collaborate on ... Microbial Genomics, Epigenetics and Gene regulations🔬 
+- 💞️ I’m looking to collaborate on ... Microbial Genomics, Epigenomics and Gene regulations🔬 
 - 📫 How to reach me ... try my email gerogeboateng57@gmail.com
 
 <!---
