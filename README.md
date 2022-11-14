@@ -1,4 +1,4 @@
-- 👋 Hi, I’m George Sarfo-Boateng
+- 👋 Hi, I’m George Boateng-Sarfo
 - 👀 I’m interested in ...Genomics, Computational Biology, Bioinformatics and Machine Learning.
 - 🌱 I’m currently learning ...how to develop various Bioinformatics pipelines and models that automate NGS workflow at the Signorlab at NDSU and the US NAMRU-3 Ghana Detachmentat at the University of Ghana Noguchi Memorial Institute for Medical Research
 - 💞️ I’m looking to collaborate on ... Microbial Genomics, Epigenomics and Gene regulations/RNA Modifications🔬 
