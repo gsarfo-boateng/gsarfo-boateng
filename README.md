@@ -2,9 +2,6 @@
 
 ### 🧬 Computational Biologist | Bioinformatician | Bioinformatics Software Developer
 
-🔬 **Postdoctoral Research Scientist**
-📍 Columbia University Irving Medical Center | New York, USA
-
 I'm a computational biologist and bioinformatics software developer
 with research interests in RNA biology, gene regulation, genomics,
 epitranscriptomics, and computational method development.
