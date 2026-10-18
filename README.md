@@ -76,7 +76,7 @@ Features include:
 - Integration with transcript quantification results
 
 ### 🧬 PeakLocus
-**Transcript-aware Genomic and RNA Peak Annotation**
+**Transcript-aware RNA Peak Annotation**
 
 A computational framework for annotating genomic and RNA
 peak coordinates within transcript structures.
@@ -124,18 +124,7 @@ reproducible workflows for:
 
 **Programming Languages**
 
-Python | R | Java | Bash | SQL
-
-**Bioinformatics and Genomics**
-
-STAR | HISAT2 | Salmon | featureCounts | DESeq2 |
-edgeR | rMATS | IsoQuant | Seurat | Harmony |
-DaPars | LABRAT | APAscan
-
-**Computational Infrastructure**
-
-Linux | SLURM | HPC | Git | GitHub |
-Conda | Maven | Nextflow
+Java | R | Bash | SQL
 
 **Research Applications**
 
