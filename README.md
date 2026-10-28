@@ -1,6 +1,6 @@
-# 👋 Hi, I'm George Boateng-Sarfo, PhD
+# Hi, I'm George Boateng-Sarfo, PhD
 
-### 🧬 Computational Biologist | Bioinformatician | Bioinformatics Software Developer
+### Computational Biologist | Bioinformatician | Bioinformatics Software Developer
 
 I'm a computational biologist and bioinformatics software developer
 with research interests in RNA biology, gene regulation, genomics,
@@ -18,7 +18,7 @@ gene regulation.
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - 🧬 RNA Biology and Post-transcriptional Gene Regulation
 - 🧪 RNA Epigenomics and Epitranscriptomics
