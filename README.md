@@ -20,18 +20,18 @@ gene regulation.
 
 ## Research Interests
 
-- 🧬 RNA Biology and Post-transcriptional Gene Regulation
-- 🧪 RNA Epigenomics and Epitranscriptomics
-- 🧬 Alternative Splicing and Transcript Isoform Regulation
-- 🔬 Alternative Polyadenylation and 3′ UTR Remodeling
-- 🧫 RNA Modifications and RNA-binding Proteins
-- 🧬 Cancer Genomics and Transcriptomics
-- 🔎 Single-cell and Spatial Transcriptomics
-- 🧪 Long-read and Direct RNA Sequencing
-- 💻 Computational Genomics and Bioinformatics Software Development
-- 🤖 Machine Learning and Statistical Genomics
+- RNA Biology and Post-transcriptional Gene Regulation
+- RNA Epigenomics and Epitranscriptomics
+- Alternative Splicing and Transcript Isoform Regulation
+- Alternative Polyadenylation and 3′ UTR Remodeling
+- RNA Modifications and RNA-binding Proteins
+- Cancer Genomics and Transcriptomics
+- Single-cell and Spatial Transcriptomics
+- Long-read and Direct RNA Sequencing
+- Computational Genomics and Bioinformatics Software Development
+- Machine Learning and Statistical Genomics
 
-## 🧪 Bioinformatics Pipelines and Analysis Workflows
+## Bioinformatics Pipelines and Analysis Workflows
 
 My computational work also includes developing and integrating
 reproducible workflows for:
@@ -63,7 +63,7 @@ Alternative Splicing | APA | RNA Modifications
 
 ---
 
-## 🤝 Open to Collaboration
+## Open to Collaboration
 
 I'm interested in collaborations involving:
 
@@ -77,11 +77,11 @@ I'm interested in collaborations involving:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-📧 **Email:** gerogeboateng57@gmail.com
+**Email:** gerogeboateng57@gmail.com
 
-💼 **LinkedIn:**
+**LinkedIn:**
 https://www.linkedin.com/in/george-sarfo-boateng-ph-d-b30582220/
 
 💻 **GitHub:**
@@ -89,7 +89,7 @@ https://github.com/gsarfo-boateng
 
 ---
 
-### 🧬 Exploring RNA biology through computational innovation.
+### Exploring RNA biology through computational innovation.
 
 <!---
 gsarfo-boateng/gsarfo-boateng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
