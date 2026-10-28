@@ -1,4 +1,4 @@
-# Hi, I'm George Boateng-Sarfo, PhD
+# Hi, I'm George
 
 ### Computational Biologist | Bioinformatician | Bioinformatics Software Developer
 
