@@ -49,7 +49,7 @@ reproducible workflows for:
 
 ---
 
-## 💻 Programming and Computational Skills
+## Programming and Computational Skills
 
 **Programming Languages**
 
