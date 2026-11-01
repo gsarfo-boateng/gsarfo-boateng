@@ -23,7 +23,7 @@ gene regulation.
 - RNA Biology and Post-transcriptional Gene Regulation
 - RNA Epigenomics and Epitranscriptomics
 - Alternative Splicing and Transcript Isoform Regulation
-- Alternative Polyadenylation and 3′ UTR Remodeling
+- Alternative Polyadenylation and 3' UTR Remodeling
 - RNA Modifications and RNA-binding Proteins
 - Cancer Genomics and Transcriptomics
 - Single-cell and Spatial Transcriptomics
@@ -38,7 +38,7 @@ reproducible workflows for:
 
 - Bulk RNA-seq differential gene expression
 - Alternative splicing analysis
-- Alternative polyadenylation and 3′ UTR remodeling
+- Alternative polyadenylation and 3' UTR remodeling
 - Single-cell RNA-seq analysis
 - Long-read transcriptome analysis
 - Direct RNA sequencing and RNA modification detection
