@@ -53,7 +53,7 @@ reproducible workflows for:
 
 **Programming Languages**
 
-Java | R | Bash | SQL
+Java | Bash | R | SQL | Python
 
 **Research Applications**
 
@@ -84,7 +84,7 @@ I'm interested in collaborations involving:
 **LinkedIn:**
 https://www.linkedin.com/in/george-sarfo-boateng-ph-d-b30582220/
 
-💻 **GitHub:**
+**GitHub:**
 https://github.com/gsarfo-boateng
 
 ---
