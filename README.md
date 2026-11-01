@@ -1,5 +1,13 @@
 # Hi, I'm George
 
+### Exploring RNA biology through computational innovation.
+
+<!---
+gsarfo-boateng/gsarfo-boateng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+![IMG_28AE462C21E1-1](https://user-images.githubusercontent.com/80461583/121581724-b5ecf600-ca1d-11eb-87ac-b4d82082c627.jpeg)
+
 ### Computational Biologist | Bioinformatician | Bioinformatics Software Developer
 
 I'm a computational biologist/bioinformatician with research interests in RNA biology, gene regulation, genomics,
@@ -87,11 +95,3 @@ https://www.linkedin.com/in/george-sarfo-boateng-ph-d-b30582220/
 https://github.com/gsarfo-boateng
 
 ---
-
-### Exploring RNA biology through computational innovation.
-
-<!---
-gsarfo-boateng/gsarfo-boateng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![IMG_28AE462C21E1-1](https://user-images.githubusercontent.com/80461583/121581724-b5ecf600-ca1d-11eb-87ac-b4d82082c627.jpeg)
