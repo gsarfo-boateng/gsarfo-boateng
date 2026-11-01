@@ -2,8 +2,7 @@
 
 ### Computational Biologist | Bioinformatician | Bioinformatics Software Developer
 
-I'm a computational biologist and bioinformatics software developer
-with research interests in RNA biology, gene regulation, genomics,
+I'm a computational biologist/bioinformatician with research interests in RNA biology, gene regulation, genomics,
 epitranscriptomics, and computational method development.
 
 My work focuses on developing computational tools and reproducible
