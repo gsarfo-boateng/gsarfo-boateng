@@ -44,7 +44,7 @@ reproducible workflows for:
 - Direct RNA sequencing and RNA modification detection
 - Small RNA and microRNA analysis
 - RNA-binding protein motif enrichment
-- Functional enrichment analysis (GO, KEGG, GSEA)
+- Functional enrichment analysis
 - Transcript isoform analysis and quantification
 
 ---
